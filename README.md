@@ -17,7 +17,7 @@ The visualizations in this portfolio cover various categories, including but not
 - [ ] Statistical Charts (Bar charts, Pie charts, etc.)
 - [ ] Time Series Analysis
 - [X] Social Media Plots
-- [ ] Animations
+- [X] Animations
 - [ ] Geospatial Mapping
 - [ ] Interactive Dashboards
 - [ ] Data Storytelling
@@ -27,10 +27,11 @@ The visualizations have been created using a variety of tools and technologies, 
 
 - R (ggplot2)
 - Shiny
+- MicrosoftBI
 
 # Other Projects <a name="projects"></a> 
 
-I've worked on some other data visualisation projects which are complex enough to warrent their own repo. Feel free to check them out!
+I've worked on some other data visualization projects which are complex enough to warrant their own repo. Feel free to check them out!
 
 ### Social Media
 
@@ -38,7 +39,7 @@ The [12 Plots of Christmas](https://github.com/GABurns/12PlotsChristmas) was a s
 
 ### Tidy Tuesday
 
-[#TidyTuesday](https://github.com/rfordatascience/tidytuesday) is a weekly dataviz challenage that I participate in, be sure to check out my [repo](https://github.com/GABurns/TidyTuesday/) to see my contrubutions.  
+[#TidyTuesday](https://github.com/rfordatascience/tidytuesday) is a weekly dataviz challenge that I participate in, be sure to check out my [repo](https://github.com/GABurns/TidyTuesday/) to see my contributions.  
 
 ## Usage <a name="usage"></a> 
 You're welcome to explore the visualizations in this repository to gain insights into different datasets and visualization techniques. To replicate any visualization or explore the code behind it, simply navigate to the specific directory and follow the instructions in the README file provided within each folder. Feel free to fork this repository, make your changes and let me know the changes.
