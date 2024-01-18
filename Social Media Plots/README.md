@@ -12,6 +12,6 @@ of problem solver you are? I thought it over-simplified the issue as you can be 
 each category and that can change dependent on the situation and context.
 
 <p align="center">
-  <img src="https://github.com/GABurns/TidyTuesday/blob/main/2024/2024-01-09/20240109.png?raw=true" width="60%">
+  <img src="https://github.com/GABurns/DataViz/blob/main/Social%20Media%20Plots/ProblemSolver.png?raw=true" width="60%">
 </p>
 
